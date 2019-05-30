@@ -1,7 +1,4 @@
-package Utils.src.jdbc;
-
-import org.jetbrains.annotations.Nullable;
-
+import javax.annotation.Nullable;
 import java.sql.*;
 import java.util.*;
 import java.util.regex.Pattern;

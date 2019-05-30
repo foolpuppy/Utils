@@ -21,11 +21,14 @@ import javax.mail.internet.MimeMessage;
 public class JavaMailUtil {
 
 	// 发件人的邮箱和密码
-	public static String emailAccount = "qnmlgcnmdsb@qq.com";
+//	public static String emailAccount = "qnmlgcnmdsb@qq.com";
+	public static String emailAccount = "support@all-about-me.info";
 	// 发件人邮箱密码（有的是授权码）
-	public static String emailPassword = "mcpigqmgjmjeiajb";
+//	public static String emailPassword = "mcpigqmgjmjeiajb";
+	public static String emailPassword = "1531828613aA";
 	// 发件人邮箱服务地址
-	public static String emailSMTPHost = "smtp.qq.com";
+//	public static String emailSMTPHost = "smtp.qq.com";
+	public static String emailSMTPHost = "smtp.mxhichina.com";
 	//  收件人邮箱
 	public static String receiveMailAccount = "";
 	//  生成的验证码
